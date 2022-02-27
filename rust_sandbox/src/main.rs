@@ -7,7 +7,9 @@
 // mod vectors;
 // mod conditionals;
 // mod loops;
-mod functions;
+// mod functions;
+// mod pointer_ref;
+mod structs;
 fn main() {
     // print::run();
     // vars::run();
@@ -18,6 +20,7 @@ fn main() {
     // vectors::run();
     // conditionals::run();
     // loops::run();
-    functions::run();
-
+    // functions::run();
+    // pointer_ref::run();
+    structs::run()
 }
