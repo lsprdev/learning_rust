@@ -12,7 +12,8 @@
 // mod structs;
 // mod enums;
 // mod cli;
-mod input;
+// mod input;
+mod input_num;
 
 fn main() {
     // print::run();
@@ -26,8 +27,9 @@ fn main() {
     // loops::run();
     // functions::run();
     // pointer_ref::run();
-    // structs::run()
+    // structs::run();
     // enums::run();
-    // cli::run()
-    input::run()
+    // cli::run();
+    // input::run();
+    input_num::run();
 }
