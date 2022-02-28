@@ -12,7 +12,7 @@ pub fn run(){
     io::stdout() // This part is just for aesthetics
         .flush()
         .unwrap();
-    io::stdin() // This part is responsible
+    io::stdin()
         .read_line(&mut in1) // Using in1
         .unwrap();
 
