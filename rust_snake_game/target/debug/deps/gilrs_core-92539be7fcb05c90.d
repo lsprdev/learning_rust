@@ -1,0 +1,12 @@
+/home/ven/Documentos/Code/rust/rust_snake/rust_snake_game/target/debug/deps/gilrs_core-92539be7fcb05c90.rmeta: /home/ven/.cargo/registry/src/github.com-1ecc6299db9ec823/gilrs-core-0.3.2/src/lib.rs /home/ven/.cargo/registry/src/github.com-1ecc6299db9ec823/gilrs-core-0.3.2/src/platform/mod.rs /home/ven/.cargo/registry/src/github.com-1ecc6299db9ec823/gilrs-core-0.3.2/src/platform/linux/mod.rs /home/ven/.cargo/registry/src/github.com-1ecc6299db9ec823/gilrs-core-0.3.2/src/platform/linux/ff.rs /home/ven/.cargo/registry/src/github.com-1ecc6299db9ec823/gilrs-core-0.3.2/src/platform/linux/gamepad.rs /home/ven/.cargo/registry/src/github.com-1ecc6299db9ec823/gilrs-core-0.3.2/src/platform/linux/ioctl.rs /home/ven/.cargo/registry/src/github.com-1ecc6299db9ec823/gilrs-core-0.3.2/src/platform/linux/udev.rs /home/ven/.cargo/registry/src/github.com-1ecc6299db9ec823/gilrs-core-0.3.2/src/utils.rs
+
+/home/ven/Documentos/Code/rust/rust_snake/rust_snake_game/target/debug/deps/gilrs_core-92539be7fcb05c90.d: /home/ven/.cargo/registry/src/github.com-1ecc6299db9ec823/gilrs-core-0.3.2/src/lib.rs /home/ven/.cargo/registry/src/github.com-1ecc6299db9ec823/gilrs-core-0.3.2/src/platform/mod.rs /home/ven/.cargo/registry/src/github.com-1ecc6299db9ec823/gilrs-core-0.3.2/src/platform/linux/mod.rs /home/ven/.cargo/registry/src/github.com-1ecc6299db9ec823/gilrs-core-0.3.2/src/platform/linux/ff.rs /home/ven/.cargo/registry/src/github.com-1ecc6299db9ec823/gilrs-core-0.3.2/src/platform/linux/gamepad.rs /home/ven/.cargo/registry/src/github.com-1ecc6299db9ec823/gilrs-core-0.3.2/src/platform/linux/ioctl.rs /home/ven/.cargo/registry/src/github.com-1ecc6299db9ec823/gilrs-core-0.3.2/src/platform/linux/udev.rs /home/ven/.cargo/registry/src/github.com-1ecc6299db9ec823/gilrs-core-0.3.2/src/utils.rs
+
+/home/ven/.cargo/registry/src/github.com-1ecc6299db9ec823/gilrs-core-0.3.2/src/lib.rs:
+/home/ven/.cargo/registry/src/github.com-1ecc6299db9ec823/gilrs-core-0.3.2/src/platform/mod.rs:
+/home/ven/.cargo/registry/src/github.com-1ecc6299db9ec823/gilrs-core-0.3.2/src/platform/linux/mod.rs:
+/home/ven/.cargo/registry/src/github.com-1ecc6299db9ec823/gilrs-core-0.3.2/src/platform/linux/ff.rs:
+/home/ven/.cargo/registry/src/github.com-1ecc6299db9ec823/gilrs-core-0.3.2/src/platform/linux/gamepad.rs:
+/home/ven/.cargo/registry/src/github.com-1ecc6299db9ec823/gilrs-core-0.3.2/src/platform/linux/ioctl.rs:
+/home/ven/.cargo/registry/src/github.com-1ecc6299db9ec823/gilrs-core-0.3.2/src/platform/linux/udev.rs:
+/home/ven/.cargo/registry/src/github.com-1ecc6299db9ec823/gilrs-core-0.3.2/src/utils.rs:

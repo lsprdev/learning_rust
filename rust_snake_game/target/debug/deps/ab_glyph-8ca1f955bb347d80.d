@@ -1,0 +1,14 @@
+/home/ven/Documentos/Code/rust/rust_snake/rust_snake_game/target/debug/deps/ab_glyph-8ca1f955bb347d80.rmeta: /home/ven/.cargo/registry/src/github.com-1ecc6299db9ec823/ab_glyph-0.2.14/src/lib.rs /home/ven/.cargo/registry/src/github.com-1ecc6299db9ec823/ab_glyph-0.2.14/src/codepoint_ids.rs /home/ven/.cargo/registry/src/github.com-1ecc6299db9ec823/ab_glyph-0.2.14/src/err.rs /home/ven/.cargo/registry/src/github.com-1ecc6299db9ec823/ab_glyph-0.2.14/src/font.rs /home/ven/.cargo/registry/src/github.com-1ecc6299db9ec823/ab_glyph-0.2.14/src/font_arc.rs /home/ven/.cargo/registry/src/github.com-1ecc6299db9ec823/ab_glyph-0.2.14/src/glyph.rs /home/ven/.cargo/registry/src/github.com-1ecc6299db9ec823/ab_glyph-0.2.14/src/outlined.rs /home/ven/.cargo/registry/src/github.com-1ecc6299db9ec823/ab_glyph-0.2.14/src/scale.rs /home/ven/.cargo/registry/src/github.com-1ecc6299db9ec823/ab_glyph-0.2.14/src/ttfp.rs /home/ven/.cargo/registry/src/github.com-1ecc6299db9ec823/ab_glyph-0.2.14/src/ttfp/outliner.rs
+
+/home/ven/Documentos/Code/rust/rust_snake/rust_snake_game/target/debug/deps/ab_glyph-8ca1f955bb347d80.d: /home/ven/.cargo/registry/src/github.com-1ecc6299db9ec823/ab_glyph-0.2.14/src/lib.rs /home/ven/.cargo/registry/src/github.com-1ecc6299db9ec823/ab_glyph-0.2.14/src/codepoint_ids.rs /home/ven/.cargo/registry/src/github.com-1ecc6299db9ec823/ab_glyph-0.2.14/src/err.rs /home/ven/.cargo/registry/src/github.com-1ecc6299db9ec823/ab_glyph-0.2.14/src/font.rs /home/ven/.cargo/registry/src/github.com-1ecc6299db9ec823/ab_glyph-0.2.14/src/font_arc.rs /home/ven/.cargo/registry/src/github.com-1ecc6299db9ec823/ab_glyph-0.2.14/src/glyph.rs /home/ven/.cargo/registry/src/github.com-1ecc6299db9ec823/ab_glyph-0.2.14/src/outlined.rs /home/ven/.cargo/registry/src/github.com-1ecc6299db9ec823/ab_glyph-0.2.14/src/scale.rs /home/ven/.cargo/registry/src/github.com-1ecc6299db9ec823/ab_glyph-0.2.14/src/ttfp.rs /home/ven/.cargo/registry/src/github.com-1ecc6299db9ec823/ab_glyph-0.2.14/src/ttfp/outliner.rs
+
+/home/ven/.cargo/registry/src/github.com-1ecc6299db9ec823/ab_glyph-0.2.14/src/lib.rs:
+/home/ven/.cargo/registry/src/github.com-1ecc6299db9ec823/ab_glyph-0.2.14/src/codepoint_ids.rs:
+/home/ven/.cargo/registry/src/github.com-1ecc6299db9ec823/ab_glyph-0.2.14/src/err.rs:
+/home/ven/.cargo/registry/src/github.com-1ecc6299db9ec823/ab_glyph-0.2.14/src/font.rs:
+/home/ven/.cargo/registry/src/github.com-1ecc6299db9ec823/ab_glyph-0.2.14/src/font_arc.rs:
+/home/ven/.cargo/registry/src/github.com-1ecc6299db9ec823/ab_glyph-0.2.14/src/glyph.rs:
+/home/ven/.cargo/registry/src/github.com-1ecc6299db9ec823/ab_glyph-0.2.14/src/outlined.rs:
+/home/ven/.cargo/registry/src/github.com-1ecc6299db9ec823/ab_glyph-0.2.14/src/scale.rs:
+/home/ven/.cargo/registry/src/github.com-1ecc6299db9ec823/ab_glyph-0.2.14/src/ttfp.rs:
+/home/ven/.cargo/registry/src/github.com-1ecc6299db9ec823/ab_glyph-0.2.14/src/ttfp/outliner.rs:

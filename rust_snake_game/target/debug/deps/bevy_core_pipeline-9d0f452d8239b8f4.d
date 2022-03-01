@@ -1,0 +1,10 @@
+/home/ven/Documentos/Code/rust/rust_snake/rust_snake_game/target/debug/deps/bevy_core_pipeline-9d0f452d8239b8f4.rmeta: /home/ven/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_core_pipeline-0.6.0/src/lib.rs /home/ven/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_core_pipeline-0.6.0/src/clear_pass.rs /home/ven/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_core_pipeline-0.6.0/src/clear_pass_driver.rs /home/ven/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_core_pipeline-0.6.0/src/main_pass_2d.rs /home/ven/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_core_pipeline-0.6.0/src/main_pass_3d.rs /home/ven/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_core_pipeline-0.6.0/src/main_pass_driver.rs
+
+/home/ven/Documentos/Code/rust/rust_snake/rust_snake_game/target/debug/deps/bevy_core_pipeline-9d0f452d8239b8f4.d: /home/ven/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_core_pipeline-0.6.0/src/lib.rs /home/ven/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_core_pipeline-0.6.0/src/clear_pass.rs /home/ven/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_core_pipeline-0.6.0/src/clear_pass_driver.rs /home/ven/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_core_pipeline-0.6.0/src/main_pass_2d.rs /home/ven/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_core_pipeline-0.6.0/src/main_pass_3d.rs /home/ven/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_core_pipeline-0.6.0/src/main_pass_driver.rs
+
+/home/ven/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_core_pipeline-0.6.0/src/lib.rs:
+/home/ven/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_core_pipeline-0.6.0/src/clear_pass.rs:
+/home/ven/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_core_pipeline-0.6.0/src/clear_pass_driver.rs:
+/home/ven/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_core_pipeline-0.6.0/src/main_pass_2d.rs:
+/home/ven/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_core_pipeline-0.6.0/src/main_pass_3d.rs:
+/home/ven/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_core_pipeline-0.6.0/src/main_pass_driver.rs:
