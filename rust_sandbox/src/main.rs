@@ -1,5 +1,7 @@
-mod a16_func_calc;
+
+mod enums;
+
 
 fn main() {
-    a16_func_calc::run();
+    enums::e1_enums::run();
 }
