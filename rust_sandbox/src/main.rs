@@ -1,7 +1,7 @@
 
-mod enums;
+mod structs;
 
 
 fn main() {
-    enums::e1_enums::run();
+    structs::e1_structs::run();
 }
