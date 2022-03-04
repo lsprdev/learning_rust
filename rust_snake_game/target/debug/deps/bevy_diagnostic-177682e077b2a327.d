@@ -1,9 +1,0 @@
-/home/ven/Documentos/Code/rust/rust_snake/rust_snake_game/target/debug/deps/bevy_diagnostic-177682e077b2a327.rmeta: /home/ven/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_diagnostic-0.6.0/src/lib.rs /home/ven/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_diagnostic-0.6.0/src/diagnostic.rs /home/ven/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_diagnostic-0.6.0/src/entity_count_diagnostics_plugin.rs /home/ven/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_diagnostic-0.6.0/src/frame_time_diagnostics_plugin.rs /home/ven/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_diagnostic-0.6.0/src/log_diagnostics_plugin.rs
-
-/home/ven/Documentos/Code/rust/rust_snake/rust_snake_game/target/debug/deps/bevy_diagnostic-177682e077b2a327.d: /home/ven/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_diagnostic-0.6.0/src/lib.rs /home/ven/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_diagnostic-0.6.0/src/diagnostic.rs /home/ven/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_diagnostic-0.6.0/src/entity_count_diagnostics_plugin.rs /home/ven/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_diagnostic-0.6.0/src/frame_time_diagnostics_plugin.rs /home/ven/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_diagnostic-0.6.0/src/log_diagnostics_plugin.rs
-
-/home/ven/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_diagnostic-0.6.0/src/lib.rs:
-/home/ven/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_diagnostic-0.6.0/src/diagnostic.rs:
-/home/ven/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_diagnostic-0.6.0/src/entity_count_diagnostics_plugin.rs:
-/home/ven/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_diagnostic-0.6.0/src/frame_time_diagnostics_plugin.rs:
-/home/ven/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_diagnostic-0.6.0/src/log_diagnostics_plugin.rs:
