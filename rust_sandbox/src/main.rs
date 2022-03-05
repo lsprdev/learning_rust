@@ -1,7 +1,7 @@
 
-mod structs;
+mod rust_exs;
 
 
 fn main() {
-    structs::e1_structs::run();
+    rust_exs::e1_calc_fn::run();
 }
